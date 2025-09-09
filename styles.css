@@ -1,0 +1,11 @@
+dialog{
+    padding:1.25rem;
+    border: none;
+    border-radius: 12px;
+}
+
+dialog::backdrop{
+    background: rgb(13, 247, 145);
+}
+
+.form-actions {display:flex; gap:.5rem;margin-top:1rem}
